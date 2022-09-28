@@ -1,0 +1,6 @@
+https://www.linkedin.com/pulse/repository-pattern-c-pawan-verma/
+https://www.c-sharpcorner.com/article/repository-design-pattern-in-asp-net-mvc/
+https://www.c-sharpcorner.com/article/implement-unit-of-work-and-generic-repository-pattern-in-a-web-api-net-core-pro/
+https://dotnettutorials.net/lesson/generic-repository-pattern-csharp-mvc/
+https://www.c-sharpcorner.com/uploadfile/babu_2082/architectural-patterns-in-net/
+https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/
