@@ -3,4 +3,8 @@ https://www.c-sharpcorner.com/article/repository-design-pattern-in-asp-net-mvc/
 https://www.c-sharpcorner.com/article/implement-unit-of-work-and-generic-repository-pattern-in-a-web-api-net-core-pro/
 https://dotnettutorials.net/lesson/generic-repository-pattern-csharp-mvc/
 https://www.c-sharpcorner.com/uploadfile/babu_2082/architectural-patterns-in-net/
+<<<<<<< HEAD
 https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/
+=======
+https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/
+>>>>>>> 96e24d705ea02ebf37f6b83464308b0e49f06814
